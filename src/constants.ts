@@ -14,7 +14,7 @@ export const FILM_DATA = [
     title: "The Weight of Growth",
     lengthSeconds: 35,
     description: "The central tension: expansion at this level only matters if standards, control, and excellence can scale with it.",
-    suggestedVO: "Narrator: “In this industry, scale means more than size. It means responsibility. Because every new line, every new position, every new capability carries something greater with it: trust.” Alejandro: “That is the real challenge. Growth only matters if you can protect the standard behind it. At Aeroman, Hangar 7 represents new capacity, but capacity only has value if the people, the systems, and the discipline are ready from day one.”",
+    suggestedVO: "Narrator: “In this industry, scale means more than size. It means responsibility. Because every new line, every new position, every new capability carries something greater with it: trust.”\n\nAlejandro: “That is the real challenge. Growth only matters if you can protect the standard behind it. At Aeroman, Hangar 7 represents new capacity, but capacity only has value if the people, the systems, and the discipline are ready from day one.”",
     whatWeSee: "Repeated line positions, floor layouts, checklists, tool control boards, supervisor review moments, uniform storage aisles, name tags, H7-labeled bins/carts, aircraft details, layered operational frames.",
     accomplishment: "Creates narrative tension and introduces the real stakes of growth. It reframes the film from a facility reveal into a story about controlled expansion.",
     icon: "Scale"
@@ -34,7 +34,7 @@ export const FILM_DATA = [
     title: "What Really Fills a Hangar",
     lengthSeconds: 30,
     description: "The film makes its key turn from infrastructure to people, revealing that the true story is not the building itself, but the expertise and readiness behind it.",
-    suggestedVO: "NARRATOR: A hangar can create space. But space alone does not create capability. What brings a place like this to life is less visible: knowledge passed forward, standards carried on, leadership multiplied, experience turned into readiness. ALEJANDRO: What fills a hangar is people. Technicians who know the work. Leaders who know how to guide it. Teams who understand what quality, safety, and service truly demand. That is what makes a new hangar operational without compromise.",
+    suggestedVO: "Narrator: A hangar can create space. But space alone does not create capability. What brings a place like this to life is less visible: knowledge passed forward, standards carried on, leadership multiplied, experience turned into readiness.\n\nAlejandro: What fills a hangar is people. Technicians who know the work. Leaders who know how to guide it. Teams who understand what quality, safety, and service truly demand. That is what makes a new hangar operational without compromise.",
     whatWeSee: "Vast hangar frames with workers inside, hands adjusting tools, technician eye-line inspections, mentor and trainee side by side, veteran and newer toolboxes, years pins during instruction, sign-offs and notation, shoulder-height moves through active stations, H7-marked items in use.",
     accomplishment: "Delivers the film’s central pivot. It moves the viewer from admiring the structure to understanding that capability lives in people, culture, and leadership.",
     icon: "Users"
