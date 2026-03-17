@@ -48,7 +48,7 @@ export default function Section({ plotPoint, title, lengthSeconds, description, 
         <div className="space-y-6 bg-white p-6 rounded-xl border border-zinc-100 shadow-sm">
           <div className="space-y-2">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-zinc-400">Suggested VO</h4>
-            <p className="text-sm text-zinc-600 leading-relaxed italic">"{suggestedVO}"</p>
+            <p className="text-sm text-zinc-600 leading-relaxed italic whitespace-pre-line">"{suggestedVO}"</p>
           </div>
           <div className="space-y-2">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-zinc-400">What we see on the screen</h4>
